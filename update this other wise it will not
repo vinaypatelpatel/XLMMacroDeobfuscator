@@ -1,0 +1,5 @@
+first,
+edit the formual.py  with sudo nano or whatever find  assert bv >= 80 #### this function needs updating ####
+and chnage it to assert bv >= 70 
+and then run it with sudo 
+it will work!!
